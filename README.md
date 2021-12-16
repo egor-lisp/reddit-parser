@@ -2,15 +2,15 @@
 
 ## Объекты
 ### User
-#### Параметры:
-  1) url = ссылка на пользователя
-  2) username = имя пользователя
-  3) logo_url = ссылка на аватарку
-  4) description = описание аккаунта
-  5) comment_karma = карма коментов
-  6) link_karma = карма ссылок
-  7) total_karma = общая карма
-  8) created_date = время создания акка
-  9) is_email_verif = потвержден ли емейл (True/False)
-  10) list posts = список объектов Post
+Параметры:
+  1) url (str) = ссылка на пользователя
+  2) username (str) = имя пользователя
+  3) logo_url (str) = ссылка на аватарку
+  4) description (str) = описание аккаунта
+  5) comment_karma (int) = карма коментов
+  6) link_karma (int) = карма ссылок
+  7) total_karma (int) = общая карма
+  8) created_date (str) = время создания акка
+  9) is_email_verif (bool) = потвержден ли емейл (True/False)
+  10) list posts (list) = список объектов Post
 
