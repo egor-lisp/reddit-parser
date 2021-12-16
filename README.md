@@ -2,16 +2,16 @@
 
 ## Объекты
 ### User
-  str url = '<ссылка на пользователя>'
-  str username = '<имя пользователя>'
-  str logo_url = '<ссылка на аватарку>'
-  str description = '<описание аккаунта>'
-  int comment_karma = <карма коментов>
-  int link_karma = <карма ссылок>
-  int total_karma = <общая карма>
-  str created_date = <время создания акка>
-  bool is_email_verif = <потвержден ли емейл>
-  list posts = <список объектов Post>
+  str url = '<ссылка на пользователя>' 
+  str username = '<имя пользователя>' 
+  str logo_url = '<ссылка на аватарку>' 
+  str description = '<описание аккаунта>' 
+  int comment_karma = <карма коментов> 
+  int link_karma = <карма ссылок> 
+  int total_karma = <общая карма> 
+  str created_date = <время создания акка> 
+  bool is_email_verif = <потвержден ли емейл> 
+  list posts = <список объектов Post> 
 
 ### Subreddit (Group)
   str url = '<ссылка на сабреддит>'
