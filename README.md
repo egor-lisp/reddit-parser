@@ -54,6 +54,8 @@
 ```
 
 ## Примеры в коде
+Нужно скачать папку reddit и оставить рядом с вашим кодом
+
 ```
 from reddit.reddit_parser import Reddit_parser
 
