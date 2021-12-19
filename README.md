@@ -55,7 +55,7 @@
 
 ## Примеры в коде
 ```
-from reddit_parser import Reddit_parser
+from reddit.reddit_parser import Reddit_parser
 
 reddit = Reddit_parser()
 
